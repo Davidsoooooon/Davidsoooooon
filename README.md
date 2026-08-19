@@ -4,6 +4,7 @@ I'm a developer focused on building practical software solutions,
 cloud-based systems, and modern web applications.
 
 Co-founded Proovli and helped shape the platform from an early idea into a working product. I contribute to product planning, software development, cloud infrastructure, team coordination, and business strategy. Our goal is to help learners identify skill gaps and improve through structured programs, practical guidance, and hands-on activities.
+
 I'm also developing my skills in AWS cloud computing, backend development,
 machine learning, cybersecurity, and system design.
 
