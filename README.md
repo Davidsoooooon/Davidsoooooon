@@ -1,4 +1,4 @@
-# Hi there, I'm Davidson 👋
+# Hi there, I'm Davidson 
 
 I'm a developer focused on building practical software solutions,
 cloud-based systems, and modern web applications.
